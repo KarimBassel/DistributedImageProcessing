@@ -13,3 +13,4 @@ The system is built on Google Cloud Platform, and uses many technologies, such a
 7. The user may download the processed images to his device.
 
 ## Here's a demo video link, showing the working system ...
+https://drive.google.com/drive/folders/1lnm8LqWm3DhVssk8I8n9cVnQQ54lelxL?usp=sharing
